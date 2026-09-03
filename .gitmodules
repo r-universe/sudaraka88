@@ -5,3 +5,6 @@
 [submodule "LDWeaver"]
 	path = LDWeaver
 	url = https://github.com/Sudaraka88/LDWeaver
+[submodule "strainspy"]
+	path = strainspy
+	url = https://github.com/gtonkinhill/strainspy
